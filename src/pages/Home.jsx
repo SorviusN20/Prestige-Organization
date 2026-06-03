@@ -10,6 +10,9 @@ function Home() {
             <p>
               Online consultations and in-home organizing for a calmer, more intentional life.
             </p>
+            <p>
+              Free Consultation
+            </p>
             <Link to="/contact" className="button-link">
               Let's Start
             </Link>
